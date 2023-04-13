@@ -1,1 +1,1 @@
-Script that reads stdin line by line and computes metrics
+# 0x03. Log Parsing
